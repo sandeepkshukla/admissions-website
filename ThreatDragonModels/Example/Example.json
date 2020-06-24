@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Example",
+    "owner": "Sandeep",
+    "description": "A Web Application"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Shukla"
+  }
+}
